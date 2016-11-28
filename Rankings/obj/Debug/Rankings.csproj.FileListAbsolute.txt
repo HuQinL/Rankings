@@ -1,0 +1,6 @@
+D:\C#代码文件夹\Rankings\Rankings\bin\Debug\Rankings.exe.config
+D:\C#代码文件夹\Rankings\Rankings\bin\Debug\Rankings.exe
+D:\C#代码文件夹\Rankings\Rankings\bin\Debug\Rankings.pdb
+D:\C#代码文件夹\Rankings\Rankings\obj\Debug\Rankings.exe
+D:\C#代码文件夹\Rankings\Rankings\obj\Debug\Rankings.pdb
+D:\C#代码文件夹\Rankings\Rankings\obj\Debug\Rankings.csprojResolveAssemblyReference.cache
